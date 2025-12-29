@@ -1,0 +1,80 @@
+[
+  {
+    "id": 1,
+    "title": "Memahami Depresi Secara Ilmiah: Gejala, Penyebab, dan Penanganan",
+    "desc": "Penjelasan lengkap tentang depresi berdasarkan penelitian klinis terbaru.",
+    "content": "Depresi (Major Depressive Disorder) adalah gangguan suasana hati yang ditandai dengan menurunnya minat, kehilangan energi, perasaan tidak berharga, dan gangguan fungsi sosial maupun akademik. Menurut American Psychiatric Association (APA), depresi bukan hanya 'perasaan sedih', tetapi merupakan kondisi medis kompleks yang memengaruhi pikiran, emosi, perilaku, serta fungsi biologis otak.\n\n## Apa yang Terjadi di Otak?\nNeuroimaging menunjukkan bahwa penderitanya mengalami perubahan pada aktivitas neurotransmiter seperti serotonin, norepinefrin, dan dopamin. Area otak seperti prefrontal cortex dan hippocampus menurun aktivitasnya, menyebabkan gangguan konsentrasi dan memori.\n\n## Faktor Penyebab Depresi\n1. **Genetik**: Risiko meningkat 2–3 kali jika memiliki riwayat keluarga.\n2. **Trauma masa kecil**: Kekerasan, penelantaran, dan lingkungan tidak aman.\n3. **Stres kronis**: Tekanan akademik/pekerjaan, kehilangan orang terdekat.\n4. **Ketidakseimbangan biologis**: Hormon stres (kortisol) yang meningkat.\n\n## Gejala Klinis Menurut DSM-5\n- Mood sedih hampir sepanjang hari\n- Kehilangan minat pada aktivitas yang disukai\n- Perubahan nafsu makan\n- Insomnia atau hypersomnia\n- Kelelahan kronis\n- Pikiran bunuh diri (butuh penanganan segera)\n\n## Penanganan yang Direkomendasikan\n1. **Psikoterapi** → CBT, ACT, IPT\n2. **Farmakoterapi** → SSRI, SNRI (sesuai dokter)\n3. **Olahraga** → menaikkan endorfin & dopamin\n4. **Sleep hygiene**\n5. **Support system yang aman**\n\nDepresi dapat pulih dengan kombinasi intervensi medis, psikologis, dan gaya hidup sehat.\n\n### Catatan\nJika muncul pikiran melukai diri, segera hubungi layanan darurat atau tenaga profesional.",
+    "category": "Depresi",
+    "img": "https://images.unsplash.com/photo-1526662092594-e98c1e356d6f",
+    "sources": [
+      "American Psychiatric Association (2013). DSM-5.",
+      "Kessler, R. C. et al. (2003). Journal of the American Medical Association.",
+      "Beck, A. T. (1967). Cognitive Theory of Depression."
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Mengatasi Serangan Kecemasan Berdasarkan Bukti Ilmiah",
+    "desc": "Strategi efektif menangani panic attack dan kecemasan tinggi.",
+    "content": "Serangan kecemasan (panic attack) adalah episode intens ketakutan ekstrem yang muncul tiba-tiba. Gejala umum termasuk jantung berdebar, napas pendek, pusing, gemetar, dan perasaan kehilangan kontrol. Secara biologis, panic attack disebabkan oleh aktivasi berlebihan sistem fight-or-flight.\n\n## Berdasarkan penelitian, teknik berikut paling efektif:\n### 1. Pernapasan diafragma\nMengaktifkan sistem parasimpatis → tubuh menjadi lebih tenang.\n\n### 2. Grounding Technique (5-4-3-2-1)\nMetode ini terbukti menurunkan aktivasi amigdala dan mengembalikan fokus.\n\n### 3. Cognitive Behavioral Therapy (CBT)\nMenurut Clark (1986), CBT adalah **gold standard** terapi untuk kecemasan.\n\n### 4. Exposure Therapy\nTerbukti membantu otak belajar bahwa ancaman tidak nyata.\n\n### 5. Mindfulness\nPenelitian Harvard menunjukkan mindfulness mengurangi kecemasan hingga 30%.\n\nJika panic attack terjadi berulang, penanganan profesional sangat dianjurkan.",
+    "category": "Anxiety",
+    "img": "https://images.unsplash.com/photo-1526498460520-4c246339dccb",
+    "sources": [
+      "Craske & Barlow (2007). Annual Review of Clinical Psychology.",
+      "Clark, D. M. (1986). Behaviour Research and Therapy.",
+      "Harvard Medical School – Anxiety Research Program."
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Self-care untuk Mahasiswa: Berdasarkan Psikologi Ilmiah",
+    "desc": "Cara menjaga kesehatan mental di tengah tekanan akademik.",
+    "content": "Self-care bukan sekadar aktivitas santai, melainkan tindakan sadar untuk menjaga kesehatan fisik dan mental. Pada mahasiswa, self-care berhubungan langsung dengan motivasi, performa akademik, dan resiliensi.\n\n## Jenis self-care yang didukung penelitian:\n### 1. Tidur cukup\nKurang tidur meningkatkan kecemasan hingga 40% (UC Berkeley, 2019).\n\n### 2. Journaling\nMenurut Pennebaker, journaling membantu mengorganisir emosi dan menurunkan stres.\n\n### 3. Olahraga ringan\nMenurunkan gejala depresi hingga 22%.\n\n### 4. Mengatur waktu\nTeknik Pomodoro meningkatkan fokus & produktivitas.\n\n### 5. Dukungan sosial\nTeman yang suportif dapat menurunkan potensi burnout.\n\nMahasiswa perlu self-care agar tetap stabil secara emosional dan akademik.",
+    "category": "Self-care",
+    "img": "https://images.unsplash.com/photo-1506126613408-eca07ce68773",
+    "sources": [
+      "Pennebaker, J. (1997). Psychological Science.",
+      "UC Berkeley Sleep Lab (2019).",
+      "WHO Mental Health in University Students Report."
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Trauma Psikologis dan Proses Penyembuhannya",
+    "desc": "Penjelasan ilmiah tentang trauma dan bagaimana proses healing terjadi.",
+    "content": "Trauma adalah respons emosional terhadap peristiwa ekstrem seperti kekerasan, kehilangan, kecelakaan, atau pengalaman mengancam jiwa. Trauma memengaruhi struktur otak, khususnya amigdala, hippocampus, dan prefrontal cortex.\n\n## Dampak trauma menurut penelitian:\n- Aktivasi amigdala meningkat → rasa takut berlebihan\n- Hippocampus mengecil → kesulitan memproses memori\n- PFC menurun aktivitasnya → sulit mengontrol emosi\n\n## Proses healing ilmiah\n### 1. Trauma-focused CBT\nEfektif menata ulang interpretasi otak terhadap pengalaman traumatik.\n\n### 2. EMDR (Eye Movement Desensitization and Reprocessing)\nMetode berbasis bukti untuk meredakan intensitas emosi negatif.\n\n### 3. Somatic Therapy\nMembantu tubuh melepaskan trauma yang tersimpan pada sistem saraf.\n\n### 4. Dukungan sosial\nJurnal Social Support Research menunjukkan bahwa dukungan interpersonal mempercepat penyembuhan.\n\nTrauma bukan kelemahan—ini adalah respons biologis tubuh. Penyembuhan membutuhkan waktu, lingkungan aman, dan kadang bantuan profesional.",
+    "category": "Trauma",
+    "img": "https://images.unsplash.com/photo-1473643068424-cd2485d6a833",
+    "sources": [
+      "van der Kolk (2014). The Body Keeps the Score.",
+      "Shapiro, F. (2001). EMDR Therapy.",
+      "American Psychological Association – Trauma Guidelines."
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Hubungan Interpersonal dan Dampaknya pada Kesehatan Mental",
+    "desc": "Mengapa hubungan romantis dan pertemanan bisa memengaruhi psikologis kita.",
+    "content": "Hubungan interpersonal merupakan faktor penting dalam kesehatan mental. Penelitian menunjukkan bahwa hubungan yang sehat meningkatkan hormon oksitosin, menurunkan stres, dan meningkatkan resiliensi.\n\n## Hubungan tidak sehat menyebabkan:\n- kecemasan tinggi\n- rasa bersalah\n- gaslighting\n- isolasi sosial\n- menurunnya self-esteem\n\n## Bagaimana membangun hubungan sehat?\n1. Komunikasi jelas dan jujur\n2. Menetapkan boundaries\n3. Menghindari pola hubungan toxic\n4. Validasi emosi\n5. Kemampuan resolusi konflik yang sehat\n\n## Evidence-Based\nSebuah studi Harvard Study of Adult Development (terlama di dunia) menyimpulkan bahwa kualitas hubungan lebih menentukan kebahagiaan dibanding harta atau karier.",
+    "category": "Relationship",
+    "img": "https://images.unsplash.com/photo-1502323703385-c3ea9ace7872",
+    "sources": [
+      "Harvard Adult Development Study.",
+      "Gottman, J. (2014). The Science of Relationships.",
+      "APA – Relationship psychology overview."
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Produktivitas Tanpa Burnout: Panduan Ilmiah",
+    "desc": "Cara tetap produktif tanpa merusak kesehatan mental.",
+    "content": "Burnout adalah kondisi stres kronis yang menyebabkan kelelahan emosional, depersonalisasi, dan penurunan pencapaian. WHO mengklasifikasikannya sebagai fenomena tempat kerja.\n\n## Dampak Burnout\n- Hilangnya motivasi\n- Kemampuan fokus menurun\n- Gangguan tidur\n- Emosi tidak stabil\n\n## Cara Menghindari Burnout (berdasarkan jurnal):\n### 1. Teknik Pomodoro\nMeningkatkan fokus dan mencegah kelelahan mental.\n\n### 2. Deep Work (Cal Newport)\nBerfokus pada 1 tugas penting dengan gangguan minimal.\n\n### 3. Microbreaks\nIstirahat cepat 1–5 menit meningkatkan retensi memori.\n\n### 4. Work-life balance\nWaktu istirahat memperbaiki performa jangka panjang.\n\n### 5. Journaling produktivitas\nMembantu otak mengelola beban kognitif.\n\nProduktivitas terbaik adalah produktivitas yang tidak mengorbankan kesehatan mental.",
+    "category": "Productivity",
+    "img": "https://images.unsplash.com/photo-1493836512294-502baa1986e2",
+    "sources": [
+      "WHO Burnout Classification (2019).",
+      "Maslach, C. (1981). Burnout Research.",
+      "Cal Newport – Deep Work."
+    ]
+  }
+]
